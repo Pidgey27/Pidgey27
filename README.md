@@ -9,10 +9,8 @@
 - 🛡️ Interested in **Ethical Hacking** and **Network Security**
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pidgey27&show_icons=true&theme=tokyonight)
 
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/your-name/) | [Twitter](https://twitter.com/your-nickname) | [Portfolio](https://yourwebsite.com)
 
-“Keep pushing the code 🚀”
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
