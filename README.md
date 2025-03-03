@@ -17,3 +17,10 @@
 [LinkedIn](https://www.linkedin.com/in/your-name/) | [Twitter](https://twitter.com/your-nickname) | [Portfolio](https://yourwebsite.com)
 -->
 
+### 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔐 Cyber Security Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-0087B3?style=for-the-badge)
+
+
