@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Pietro Galiazzo 👋
+### Full Stack Developer | Cyber Security Enthusiast | Open Source Lover
+🚀 Skills: React | Python | Docker | Cyber Security | Ethical Hacking | Network Security
 
-<!--
-**Pidgey27/Pidgey27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 About Me
+- 🔥 Passionate about technology, web development, and cyber security
+- 💻 I love creating Open Source projects and exploring security vulnerabilities
+- 🌱 Currently learning **Rust** and **Penetration Testing**
+- 🛡️ Interested in **Ethical Hacking** and **Network Security**
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/your-name/) | [Twitter](https://twitter.com/your-nickname) | [Portfolio](https://yourwebsite.com)
+
+“Keep pushing the code 🚀”
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
